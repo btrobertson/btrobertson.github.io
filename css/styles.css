@@ -8,6 +8,10 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
+h1 {
+  font-weight: 700;
+}
+
 header.bg-secondary {
 
   background-image: url("../images/bg.jpg");

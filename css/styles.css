@@ -63,3 +63,9 @@ section {
   padding: 120px 0 140px 0;
   text-shadow: 0 0 4px #333, 0 0 10px rgb(125, 110, 88);
 }
+
+.list-unstyled i {
+  width: 0.8rem;
+  margin-right: 0.5rem;
+  color: rgb(30, 30, 30);
+}

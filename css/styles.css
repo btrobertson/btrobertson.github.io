@@ -58,3 +58,8 @@ section {
   padding-right: 10%;
   padding-left: 10%;
 }
+
+.top-heading {
+  padding: 120px 0 140px 0;
+  text-shadow: 0 0 4px #333, 0 0 10px rgb(125, 110, 88);
+}
